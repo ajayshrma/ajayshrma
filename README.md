@@ -1,4 +1,4 @@
-### Hey there itz Ajay <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey there itz Ajay <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/selfskyway">
   <img align="left" alt="Ajay Sharma| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -17,13 +17,14 @@
 Hi, I'm Ajay Sharma, an Android App Developer 🚀 from India, currently, I'm Doing an Internship.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-**Talking about Personal Stuffs:**
+ 
+#### 🎍 Welcome to my hub 👨‍💻
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Backend Development; 
-- 💬 Ask me about anything, I am happy to help;
-- 💢 community founder of selfskyway
+- 👨‍🎓 20 year old Information Technology Engineering Undergrad student.
+- 👨‍💻 ***#SelfTaught*** Developer.
+- 📱  Android App developer.
+- 👨‍💻 Mostly working on ❤️Android 🔥Firebase!
+- 🌐 Little bit exploring Web development too & ❤️Kotlin .
 
 **Languages and Tools:**  
 
@@ -41,6 +42,13 @@ Hi, I'm Ajay Sharma, an Android App Developer 🚀 from India, currently, I'm Do
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ajayshrma&show_icons=true&theme=gotham" alt="raushanjha" />
 
 </details>
-Theme Credit @abhisheknaiidu
+
+## 🔗 Know more about me 
+
+[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:atajaysharma1)
+[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/selfskyway)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](http://www.linkedin.com/in/ajayshrma/)
+[![Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium)](https://https://medium.com/@itzajay)
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://instagram.com/mesuryaveer/)
 
 
