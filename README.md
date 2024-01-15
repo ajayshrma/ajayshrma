@@ -20,11 +20,8 @@ Hi, I'm Ajay Sharma, an Android App Developer 🚀 from India, currently, I'm Do
  
 #### 🎍 Welcome to my hub 👨‍💻
 
-- 👨‍🎓 20 year old Computer Science Engineering Undergrad student.
-- 👨‍💻 ***#SelfTaught*** Developer.
-- 📱  Android App developer.
-- 👨‍💻 Mostly working on ❤️Android 🔥Firebase!
-- 🌐 Little bit exploring Web development too & ❤️Kotlin .
+- 👨‍🎓 Backend developer.
+- 👨‍💻 **Exploring web development**
 
 **Languages and Tools:**  
 
