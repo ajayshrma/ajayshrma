@@ -14,7 +14,7 @@
 
 <h5>
   Aspiring Backend Developer with skills in Javascript, NodeJs, Express,
-MongoDB, and algorithms. Aiming to focus on backend development
+MongoDB. Aiming to focus on backend development
 and contribute to meaningful projects. Eager to learn and adapt to
 new technologies
 </h5>
