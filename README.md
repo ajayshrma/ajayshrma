@@ -13,7 +13,7 @@
 </a>![](https://visitor-badge.glitch.me/badge?page_id=ajayshrma.MyGithub)  
 
 <h5>
-  Aspiring Backend Developer with skills in Javascript, NodeJs, Express,
+  Aspiring Software Developer with skills in Javascript, NodeJs, Express,
 MongoDB. Aiming to focus on backend development
 and contribute to meaningful projects. Eager to learn and adapt to
 new technologies
