@@ -23,8 +23,7 @@ new technologies
  
 #### 🎍 Welcome to my hub 👨‍💻
 
-- 👨‍🎓 Backend developer.
-- 👨‍💻 **Exploring web development**
+- 👨‍🎓 Software developer.
 
 **Languages and Tools:**  
 
